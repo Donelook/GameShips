@@ -1,6 +1,6 @@
 package GameShips;
 
-import com.sun.org.apache.xpath.internal.operations.Equals;
+
 
 import java.util.Scanner;
 

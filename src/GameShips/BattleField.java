@@ -1,6 +1,6 @@
 package GameShips;
 
-import java.util.Scanner;
+
 
 public class BattleField {
     private final FieldState[][] battleArray;
